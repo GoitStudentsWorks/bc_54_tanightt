@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bc_54_tanightt/static/css/main.3f552129.css",
-    "main.js": "/bc_54_tanightt/static/js/main.53a4c2ee.js",
+    "main.js": "/bc_54_tanightt/static/js/main.d179a946.js",
     "static/css/942.00089189.chunk.css": "/bc_54_tanightt/static/css/942.00089189.chunk.css",
     "static/js/942.f0123cf6.chunk.js": "/bc_54_tanightt/static/js/942.f0123cf6.chunk.js",
     "static/css/389.a986cab3.chunk.css": "/bc_54_tanightt/static/css/389.a986cab3.chunk.css",
@@ -28,7 +28,7 @@
     "static/media/Diagram-currency-1.png": "/bc_54_tanightt/static/media/Diagram-currency-1.6f0cffb78f4a518204b7.png",
     "index.html": "/bc_54_tanightt/index.html",
     "main.3f552129.css.map": "/bc_54_tanightt/static/css/main.3f552129.css.map",
-    "main.53a4c2ee.js.map": "/bc_54_tanightt/static/js/main.53a4c2ee.js.map",
+    "main.d179a946.js.map": "/bc_54_tanightt/static/js/main.d179a946.js.map",
     "942.00089189.chunk.css.map": "/bc_54_tanightt/static/css/942.00089189.chunk.css.map",
     "942.f0123cf6.chunk.js.map": "/bc_54_tanightt/static/js/942.f0123cf6.chunk.js.map",
     "389.a986cab3.chunk.css.map": "/bc_54_tanightt/static/css/389.a986cab3.chunk.css.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.3f552129.css",
-    "static/js/main.53a4c2ee.js"
+    "static/js/main.d179a946.js"
   ]
 }
